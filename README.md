@@ -1,4 +1,12 @@
-<div align="center">
+# 🐾 Infinite Gratitude | 無限報恩 | 無限の恩返し
+
+> Multi-agent research skill that keeps bringing gifts back
+
+![10 Agents Demo](assets/demo-10-agents.png)
+
+> 🤯 **Meta Alert!** The promotional campaign for this skill was created USING this skill!
+> We dispatched 18 agents to write articles, submit PRs, and spread the word.
+
 
 # 🐾 無限報恩 | Infinite Gratitude | 無限の恩返し
 
