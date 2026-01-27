@@ -1,4 +1,20 @@
+<div align="center">
+
 # 🐾 無限報恩 | Infinite Gratitude | 無限の恩返し
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made with Love](https://img.shields.io/badge/Made%20with-🐾-red)](https://github.com/sstklen/infinite-gratitude)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+**A multi-agent research skill that keeps bringing gifts back until you are satisfied**
+
+[English](#-english) | [日本語](#-日本語) | [中文](#-中文)
+
+</div>
+
+---
 
 > ## 🤯 Meta Alert!
 > 
@@ -9,14 +25,22 @@
 
 ---
 
+## 🚀 Quick Start
 
-> A multi-agent research skill that keeps bringing gifts back until you're satisfied
+```bash
+# 1. Install (one command!)
+curl -sSL https://raw.githubusercontent.com/sstklen/infinite-gratitude/main/infinite-gratitude.skill.md \
+  -o ~/.claude/skills/infinite-gratitude.skill.md
 
-[English](#english) | [日本語](#日本語) | [中文](#中文)
+# 2. Use in Claude Code
+/infinite-gratitude "your research topic"
+```
+
+**That is it!** The skill file will be automatically loaded by Claude Code.
 
 ---
 
-<a name="english"></a>
+<a name="-english"></a>
 ## 🇺🇸 English
 
 ### The Concept
@@ -39,7 +63,7 @@ You: "Nice! But I want more on this..."
 
 ### Origin Story
 
-In Japan's Boso Peninsula, 28 cats and dogs live in "Washin Village." When building their AI recognition platform, we needed to research tons of technology — too much for one person.
+In Japan Boso Peninsula, 28 cats and dogs live in "Washin Village." When building their AI recognition platform, we needed to research tons of technology — too much for one person.
 
 So we let AI agents work like village pets: **go out, bring gifts back, repeat.**
 
@@ -47,21 +71,47 @@ Result: 10 agents, 3 waves, 9 reports, 77.6% accuracy achieved.
 
 ### Installation
 
+**Option 1: One-liner (Recommended)**
 ```bash
+curl -sSL https://raw.githubusercontent.com/sstklen/infinite-gratitude/main/infinite-gratitude.skill.md \
+  -o ~/.claude/skills/infinite-gratitude.skill.md
+```
+
+**Option 2: Manual**
+```bash
+# Clone the repo
+git clone https://github.com/sstklen/infinite-gratitude.git
+
 # Copy to your skills folder
-cp infinite-gratitude.skill.md ~/.claude/skills/
+cp infinite-gratitude/infinite-gratitude.skill.md ~/.claude/skills/
 ```
 
 ### Usage
 
 ```bash
+# Basic usage
 /infinite-gratitude "pet AI recognition"
+
+# Deep research mode
 /infinite-gratitude "RAG best practices" --depth deep
+
+# Multiple topics
+/infinite-gratitude "vector databases" "embedding models"
 ```
+
+### Configuration
+
+The skill supports these parameters:
+
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| `--depth` | `normal` | Research depth: `quick`, `normal`, `deep` |
+| `--agents` | `5` | Number of parallel agents (1-10) |
+| `--waves` | `3` | Number of research waves |
 
 ---
 
-<a name="日本語"></a>
+<a name="-日本語"></a>
 ## 🇯🇵 日本語
 
 ### コンセプト
@@ -92,21 +142,34 @@ cp infinite-gratitude.skill.md ~/.claude/skills/
 
 ### インストール
 
+**オプション1：ワンライナー（推奨）**
 ```bash
+curl -sSL https://raw.githubusercontent.com/sstklen/infinite-gratitude/main/infinite-gratitude.skill.md \
+  -o ~/.claude/skills/infinite-gratitude.skill.md
+```
+
+**オプション2：手動**
+```bash
+# リポジトリをクローン
+git clone https://github.com/sstklen/infinite-gratitude.git
+
 # skillsフォルダにコピー
-cp infinite-gratitude.skill.md ~/.claude/skills/
+cp infinite-gratitude/infinite-gratitude.skill.md ~/.claude/skills/
 ```
 
 ### 使い方
 
 ```bash
+# 基本的な使い方
 /infinite-gratitude "ペットAI認識"
+
+# 深い調査モード
 /infinite-gratitude "RAGベストプラクティス" --depth deep
 ```
 
 ---
 
-<a name="中文"></a>
+<a name="-中文"></a>
 ## 🇹🇼 中文
 
 ### 概念
@@ -137,15 +200,28 @@ cp infinite-gratitude.skill.md ~/.claude/skills/
 
 ### 安裝
 
+**方法一：一行指令（推薦）**
 ```bash
+curl -sSL https://raw.githubusercontent.com/sstklen/infinite-gratitude/main/infinite-gratitude.skill.md \
+  -o ~/.claude/skills/infinite-gratitude.skill.md
+```
+
+**方法二：手動安裝**
+```bash
+# 克隆 repo
+git clone https://github.com/sstklen/infinite-gratitude.git
+
 # 複製到 skills 資料夾
-cp infinite-gratitude.skill.md ~/.claude/skills/
+cp infinite-gratitude/infinite-gratitude.skill.md ~/.claude/skills/
 ```
 
 ### 使用
 
 ```bash
+# 基本使用
 /infinite-gratitude "寵物 AI 辨識"
+
+# 深度研究模式
 /infinite-gratitude "RAG 最佳實踐" --depth deep
 ```
 
@@ -166,14 +242,39 @@ cp infinite-gratitude.skill.md ~/.claude/skills/
 
 ```
 ├── README.md                     # This file
-├── infinite-gratitude-story.md   # Full story
+├── infinite-gratitude-story.md   # Full story (17K words!)
 └── infinite-gratitude.skill.md   # Skill definition (copy this!)
 ```
 
 ---
 
+## 🤝 Contributing
+
+PRs are welcome! Feel free to:
+
+- Add new research patterns
+- Improve the skill definition
+- Translate to more languages
+- Share your success stories
+
+---
+
+## 📜 License
+
+MIT License - feel free to use, modify, and share!
+
+---
+
+<div align="center">
+
 ## 🐾 Credits
 
-Made with 🐾 by Washin Village
+Made with 🐾 by **Washin Village** (和心村)
 
 *和牠一起，療癒全世界*
+
+*Heal the world, together with your pet*
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sstklen/infinite-gratitude&type=Date)](https://star-history.com/#sstklen/infinite-gratitude&Date)
+
+</div>
