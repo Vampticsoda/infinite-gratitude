@@ -1,6 +1,6 @@
-# 無限報恩 | Infinite Gratitude | 無限の恩返し
+# 🐾 無限貓報恩 | Infinite Gratitude | 無限の恩返し
 
-> 🐾 Multi-agent research that keeps bringing gifts back
+> Multi-agent research that keeps bringing gifts back — like cats! 🐱
 
 ## Trigger
 
@@ -108,6 +108,8 @@ If follow-up questions exist:
    - How to use MegaDescriptor?
 
 Continue? (y/n)
+
+🐾 by washinmura.jp
 ```
 
 ## Notes
@@ -115,3 +117,7 @@ Continue? (y/n)
 - Uses `haiku` to save cost
 - Max 5 agents per wave
 - Deep mode loops until satisfied
+
+---
+
+*🐾 Made with love by [Washin Village](https://washinmura.jp) — Home of 28 cats & dogs*
