@@ -1,5 +1,15 @@
 # 🐾 無限報恩 | Infinite Gratitude | 無限の恩返し
 
+> ## 🤯 Meta Alert!
+> 
+> **The promotional campaign for this skill was created USING this skill!**
+> 
+> We dispatched 10 agents to write articles, submit PRs, and spread the word.
+> This is Infinite Gratitude in action.
+
+---
+
+
 > A multi-agent research skill that keeps bringing gifts back until you're satisfied
 
 [English](#english) | [日本語](#日本語) | [中文](#中文)
