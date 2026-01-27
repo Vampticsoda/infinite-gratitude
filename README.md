@@ -1,6 +1,6 @@
-# 🐾 Infinite Gratitude | 無限報恩 | 無限の恩返し
+# 🐾 無限貓報恩 | Infinite Gratitude | 無限の恩返し
 
-> Multi-agent research skill that keeps bringing gifts back
+> Multi-agent research skill that keeps bringing gifts back — like cats bringing you mice! 🐱
 
 ![10 Agents Demo](assets/demo-10-agents.png)
 
@@ -8,7 +8,7 @@
 > We dispatched 18 agents to write articles, submit PRs, and spread the word.
 
 
-# 🐾 無限報恩 | Infinite Gratitude | 無限の恩返し
+# 🐾 無限貓報恩 | Infinite Gratitude | 無限の恩返し
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
