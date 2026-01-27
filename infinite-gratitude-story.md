@@ -1,12 +1,261 @@
-# 🐾 和心村貓狗大出動：無限報恩模式
+# 🐾 Infinite Gratitude: The Full Story
 
-> **Washin Village Pet Swarm: Infinite Gratitude Mode**
->
-> 一個用多代理協作解決複雜研究任務的 Claude Code Skill
+> **無限報恩：完整故事** | **無限の恩返し：完全版ストーリー**
+
+[English](#english) | [日本語](#日本語) | [中文](#中文)
 
 ---
 
-## 📖 緣起
+<a name="english"></a>
+## 🇺🇸 English Version
+
+### The Origin
+
+In Japan's Boso Peninsula, there's a place called "Washin Village" where 28 cats and dogs live.
+
+The owner wanted to build a platform so the whole world could meet these adorable pets. But there was a problem:
+
+> "How do we make AI recognize each animal?"
+
+There was too much to research:
+- What open-source projects are on GitHub?
+- What pre-trained models are on HuggingFace?
+- How did competitors achieve 99% accuracy?
+- What do the latest papers say?
+
+One person couldn't possibly research it all... 😫
+
+**So the village cats and dogs decided to help!**
+
+---
+
+### Character Roles
+
+Each animal has their specialty:
+
+| Animal | Role | Specialty | Personality |
+|--------|------|-----------|-------------|
+| 🐱 **Jelly** | Captain | Coordination | Calm, leadership |
+| 🐱 **Gold** | Code Hunter | GitHub Trending | Curious |
+| 🐱 **Silver** | Model Expert | HuggingFace | Detail-oriented |
+| 🐱 **Ariel** | Academic Cat | Paper reading | Smart, a bit tsundere |
+| 🐱 **Cruella** | Intel Agent | Competitor analysis | Sharp, action-oriented |
+| 🐱 **Anko** | Organizer | Report compilation | Gentle, organized |
+| 🐕 **Johnny** | Scout Dog | Wide search | Enthusiastic, fast |
+| 🐱 **Nina** | Verifier | Fact checking | Rigorous |
+| 🐱 **Kogure** | Translator | Multi-language | Multilingual |
+| 🐱 **Donut** | Recorder | Chat summary | Sweet, healing |
+
+---
+
+### The "Infinite Gratitude" Mode
+
+#### What is "Gratitude"?
+
+Cats have a habit: they bring "gifts" (mice, bugs, leaves) home to their owners.
+
+This is **gratitude**.
+
+#### How It Works
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   😊 Owner: "Research pet AI recognition for me"        │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   🐱 Captain Jelly: "Everyone, move out!"               │
+│                                                         │
+│         ↓                                               │
+│   ┌─────┬─────┬─────┬─────┬─────┐                       │
+│   │Gold │Silver│Ariel│Cruella│Johnny│  ← Parallel       │
+│   │ 🐱  │  🐱  │ 🐱  │  🐱   │  🐕  │                    │
+│   └──┬──┴──┬──┴──┬──┴──┬───┴──┬──┘                      │
+│      ↓     ↓     ↓     ↓      ↓                         │
+│   GitHub  HF   Papers Comp.  Wide                       │
+│      ↓     ↓     ↓     ↓      ↓                         │
+│   └──────────────┬────────────┘                         │
+│                  ↓                                      │
+│   🐱 Anko: "Report is ready!"                           │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   😊 Owner: "Great! But I want more on ArcFace..."      │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   🐱 Jelly: "Copy! Silver, Ariel, move out again!"      │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│      🔄 Infinite loop until owner is satisfied          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Real Results
+
+**Task**: Research how to achieve 90% animal recognition accuracy from scratch
+
+**Deployed**: 10 agents in parallel
+
+**Gratitude Waves**: 3
+
+**Final Output**:
+
+| Report | Content | Key Finding |
+|--------|---------|-------------|
+| 01 | Competitor Analysis | Petnow achieved 99% |
+| 02 | Dataset Survey | Oxford-IIIT Pet is commercial-safe |
+| 03 | API Survey | Self-training is most economical |
+| 04 | App Features | Market gap: Social + Recognition |
+| 05 | Tech Roadmap | MegaDescriptor is a gem |
+| 06 | Business Model | Pet insurance is key to monetization |
+| 07 | GitHub Projects | WildlifeDatasets is usable |
+| 08 | HuggingFace Models | DINOv2 is powerful |
+| 09 | Petnow Decoded | Siamese + Self-Attention |
+| 00 | Executive Summary | One-page overview |
+
+**Core Conclusion**:
+> Data volume is key! 10K=85%, 50K=92%, 200K=99%
+
+**Results**:
+- Training data: 33,579 images
+- Current accuracy: 77.6% (and improving!)
+- Goal: 90%+
+
+---
+
+<a name="日本語"></a>
+## 🇯🇵 日本語版
+
+### 誕生ストーリー
+
+房総半島に「和心村」という場所があり、28匹の猫と犬が暮らしています。
+
+飼い主は、世界中の人々にこの可愛いペットたちを紹介するプラットフォームを作りたいと思いました。しかし問題が：
+
+> 「どうやってAIに各動物を認識させる？」
+
+調べることが多すぎました：
+- GitHubにはどんなオープンソースプロジェクトがある？
+- HuggingFaceにはどんな事前学習モデルがある？
+- 競合他社はどうやって99%の精度を達成した？
+- 最新の論文は何を言っている？
+
+一人では絶対に調べきれない... 😫
+
+**そこで、村の猫と犬たちが手伝うことにしました！**
+
+---
+
+### キャラクター設定
+
+各動物には得意分野があります：
+
+| 動物 | 役割 | 専門分野 | 性格 |
+|------|------|----------|------|
+| 🐱 **Jelly** | 隊長 | 統括 | 冷静、リーダーシップ |
+| 🐱 **Gold** | コードハンター | GitHub Trending | 好奇心旺盛 |
+| 🐱 **Silver** | モデル専門家 | HuggingFace | 細かい、研究好き |
+| 🐱 **Ariel** | 学術猫 | 論文解読 | 賢い、ちょっとツンデレ |
+| 🐱 **Cruella** | 情報員 | 競合分析 | 鋭い、行動派 |
+| 🐱 **Anko** | 整理係 | レポート作成 | 優しい、整理上手 |
+| 🐕 **Johnny** | 偵察犬 | 広範囲検索 | 熱心、足が速い |
+| 🐱 **Nina** | 検証官 | 事実確認 | 厳格 |
+| 🐱 **Kogure** | 翻訳官 | 多言語 | 博学 |
+| 🐱 **Donut** | 記録係 | 会話整理 | 甘い、癒し系 |
+
+---
+
+### 「無限の恩返し」モード
+
+#### 「恩返し」とは？
+
+猫には習慣があります：捕まえた「お土産」（ネズミ、虫、葉っぱ）を飼い主に持ち帰ります。
+
+これが**恩返し**です。
+
+#### 動作フロー
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   😊 飼い主：「ペットAI認識技術を調べて」                  │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   🐱 Jelly隊長：「みんな、出動！」                        │
+│                                                         │
+│         ↓                                               │
+│   ┌─────┬─────┬─────┬─────┬─────┐                       │
+│   │Gold │Silver│Ariel│Cruella│Johnny│  ← 並列出動       │
+│   │ 🐱  │  🐱  │ 🐱  │  🐱   │  🐕  │                    │
+│   └──┬──┴──┬──┴──┬──┴──┬───┴──┬──┘                      │
+│      ↓     ↓     ↓     ↓      ↓                         │
+│   GitHub  HF   論文  競合   広域                         │
+│      ↓     ↓     ↓     ↓      ↓                         │
+│   └──────────────┬────────────┘                         │
+│                  ↓                                      │
+│   🐱 Anko：「レポートできました！」                        │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   😊 飼い主：「いいね！でもArcFaceの詳細も...」            │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│   🐱 Jelly：「了解！Silver、Ariel、再出動！」             │
+│                                                         │
+│         ↓                                               │
+│                                                         │
+│      🔄 満足するまで無限ループ                            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 実際の成果
+
+**タスク**：ゼロから90%の動物認識精度を達成する方法を研究
+
+**出動**：10エージェント並列
+
+**恩返し回数**：3波
+
+**最終成果物**：
+
+| レポート | 内容 | 主な発見 |
+|----------|------|----------|
+| 01 | 競合分析 | Petnowが99%達成 |
+| 02 | データセット調査 | Oxford-IIIT Petは商用可 |
+| 03 | APIサービス調査 | 自己学習が最も経済的 |
+| 04 | アプリ機能調査 | 市場ギャップ：SNS+認識 |
+| 05 | 技術ロードマップ | MegaDescriptorは神器 |
+| 06 | ビジネスモデル | ペット保険がマネタイズの鍵 |
+| 07 | GitHubプロジェクト | WildlifeDatasetsが使える |
+| 08 | HuggingFaceモデル | DINOv2が強力 |
+| 09 | Petnow解析 | Siamese + Self-Attention |
+| 00 | エグゼクティブサマリー | 1ページ概要 |
+
+**核心結論**：
+> データ量が全て！10K=85%、50K=92%、200K=99%
+
+**成果**：
+- 訓練データ：33,579枚
+- 現在の精度：77.6%（まだ上昇中！）
+- 目標：90%+
+
+---
+
+<a name="中文"></a>
+## 🇹🇼 中文版
+
+### 緣起
 
 在日本房總半島，有一個叫「和心村」的地方，住著 28 隻貓貓狗狗。
 
@@ -26,7 +275,7 @@
 
 ---
 
-## 🎭 角色設定
+### 角色設定
 
 每隻動物都有自己的專長：
 
@@ -45,15 +294,15 @@
 
 ---
 
-## 🔄 無限報恩模式
+### 無限報恩模式
 
-### 什麼是「報恩」？
+#### 什麼是「報恩」？
 
 貓咪有個習慣：會把抓到的「禮物」（老鼠、蟲子、樹葉）叼回家給主人。
 
 這就是**報恩**。
 
-### 運作流程
+#### 運作流程
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -91,90 +340,9 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-### 為什麼叫「無限報恩」？
-
-因為貓狗們會**一直帶禮物回來**，直到任務完成：
-
-1. **第一波報恩**：帶回初步發現
-2. **主人反饋**：「這個有趣，再深入查查」
-3. **第二波報恩**：帶回更詳細的資料
-4. **主人反饋**：「還有這個方向...」
-5. **第三波報恩**：...
-6. **無限循環** 🔄
-
 ---
 
-## 💻 實際代碼
-
-### 基本用法
-
-```python
-# 召喚和心村貓狗大出動
-from claude_code import Task
-
-# 定義任務
-research_topics = [
-    "GitHub 寵物辨識專案",
-    "HuggingFace 動物模型",
-    "Petnow 技術分析",
-    "ArcFace vs Triplet Loss",
-    "寵物 AI 商業模式"
-]
-
-# 派出代理（平行執行）
-agents = []
-for topic in research_topics:
-    agent = Task(
-        prompt=f"研究：{topic}，找出關鍵發現並整理報告",
-        subagent_type="research-scout",
-        model="haiku",  # 用小模型省成本
-        run_in_background=True
-    )
-    agents.append(agent)
-
-# 等待所有代理回來報恩
-results = [agent.wait() for agent in agents]
-```
-
-### 回力標模式（無限報恩）
-
-```python
-def infinite_gratitude_loop(initial_question):
-    """無限報恩循環"""
-
-    findings = []
-    follow_up_questions = [initial_question]
-
-    while follow_up_questions:
-        # 本輪要調查的問題
-        current_questions = follow_up_questions[:5]  # 一次最多派 5 隻
-        follow_up_questions = follow_up_questions[5:]
-
-        # 🐱🐕 大出動！
-        wave_results = parallel_research(current_questions)
-        findings.extend(wave_results)
-
-        # 🐱 Anko 整理報告
-        summary = summarize_findings(wave_results)
-
-        # 😊 主人看報告，決定要不要繼續
-        new_questions = extract_follow_ups(summary)
-
-        if new_questions:
-            print(f"🔄 發現新線索！再派 {len(new_questions)} 隻出去...")
-            follow_up_questions.extend(new_questions)
-        else:
-            print("✅ 調查完成！")
-            break
-
-    return findings
-```
-
----
-
-## 📊 實戰成果
-
-### 案例：寵物 AI 辨識技術研究
+### 實戰成果
 
 **任務**：從零開始，研究如何達到 90% 動物辨識準確率
 
@@ -207,85 +375,47 @@ def infinite_gratitude_loop(initial_question):
 
 ---
 
-## 🎯 使用場景
+## 🎯 Use Cases | 使用場景 | 使用シーン
 
-這個模式適合：
-
-| 場景 | 為什麼適合 |
-|------|-----------|
-| 🔬 **技術研究** | 需要廣泛搜索多個來源 |
-| 📊 **競品分析** | 需要平行調查多個競爭對手 |
-| 📚 **文獻回顧** | 需要讀大量論文並整理 |
-| 🛠️ **工具評估** | 需要測試多個解決方案 |
-| 🌐 **市場調查** | 需要收集多方面資訊 |
+| EN | JP | ZH |
+|----|----|----|
+| Technical Research | 技術研究 | 技術研究 |
+| Competitor Analysis | 競合分析 | 競品分析 |
+| Literature Review | 文献レビュー | 文獻回顧 |
+| Tool Evaluation | ツール評価 | 工具評估 |
+| Market Research | 市場調査 | 市場調查 |
 
 ---
 
-## 💡 設計原則
+## 💡 Design Principles | 設計原則
 
-### 1. 平行出動，省時間
-
+### Parallel = Fast | 平行 = 高速
 ```
-❌ 一隻一隻派 = 10 分鐘 × 10 = 100 分鐘
-✅ 10 隻同時派 = 10 分鐘（平行執行）
+❌ One by one = 10 min × 10 = 100 min
+✅ 10 parallel = 10 min total
 ```
 
-### 2. 小模型省成本
-
+### Small models save cost | 小模型省成本
 ```python
-# 偵察任務用 Haiku（便宜又快）
-Task(model="haiku", ...)
-
-# 重要分析才用 Opus
-Task(model="opus", ...)
+Task(model="haiku", ...)  # For scouting
+Task(model="opus", ...)   # For analysis
 ```
 
-### 3. 回力標循環，挖得更深
-
-每一波報恩都可能發現新線索，讓調查更深入：
-
+### Loop deeper | 循環挖掘
 ```
-第一波：發現 Petnow 很強
-第二波：研究 Petnow 的技術細節
-第三波：找到類似的開源替代方案
-```
-
-### 4. 整理報告，不漏資訊
-
-每波回來都要整理，不然會亂：
-
-```python
-# 🐱 Anko 的工作
-def summarize_findings(results):
-    """把零散的發現整理成結構化報告"""
-    ...
+Wave 1: Discover Petnow is strong
+Wave 2: Research Petnow's tech details
+Wave 3: Find open-source alternatives
 ```
 
 ---
 
-## 🐾 結語
+## 🐾 Credits
 
-> 「一個人查不完，就讓一村的貓狗來幫忙！」
-
-和心村的貓狗們教會我們：
-
-1. **團隊合作**：每隻動物有自己的專長
-2. **平行處理**：同時出動，效率最高
-3. **持續報恩**：一波接一波，直到完成
-4. **整理歸納**：帶回來的禮物要好好整理
-
-希望這個 Skill 能幫助你在面對複雜研究任務時，也能召喚自己的「貓狗大軍」！
-
----
-
-## 📎 相關連結
-
-- 🏠 [和心村](https://washinmura.com)（建設中）
-- 🐱 動物們的 Instagram：即將上線
-- 📊 研究報告原文：`/research/pet_ai_research/`
-
----
-
-*Made with 🐾 by 和心村的貓貓狗狗們*
+Made with 🐾 by Washin Village
 
 *和牠一起，療癒全世界*
+
+*Heal the world, together with your pet*
+
+*ペットと一緒に、世界を癒そう*
