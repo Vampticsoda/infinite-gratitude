@@ -25,11 +25,15 @@
 ---
 
 > ## 🤯 Meta Alert!
-> 
+>
 > **The promotional campaign for this skill was created USING this skill!**
-> 
+>
 > We dispatched 10 agents to write articles, submit PRs, and spread the word.
 > This is Infinite Gratitude in action.
+
+![10 Cats Promotion Campaign](assets/demo-10-cats-promotion.png)
+
+*🐱 Gold, Silver, Ariel, Cruella, Johnny, Nina, Anko, Kogure, Donut, Jelly — 10 cats working together!*
 
 ---
 
